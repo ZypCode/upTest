@@ -6,7 +6,7 @@
 //  Copyright © 2017年 Zheng,Jie(SMD). All rights reserved.
 //
 
-#import "Log1.h"
+#import "Log12.h"
 #import "APPInfo.h"
 #import "ApplicationCollector.h"
 
