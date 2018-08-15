@@ -10,7 +10,7 @@
 
 @implementation FMSocket
 
-@synthesize localIp;
+@synthesize localIp1;
 @synthesize localPort;
 @synthesize remoteIp;
 @synthesize remotePort;
